@@ -1,4 +1,6 @@
-# Arch Install Scripts
+# shrubbery
+
+Fork of [arch-install-scripts](https://gitlab.archlinux.org/archlinux/arch-install-scripts).
 
 This is a small suite of scripts aimed at automating some menial
 tasks when installing [Arch Linux](https://www.archlinux.org).
